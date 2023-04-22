@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on several projects on **Web development** and a project on **AI**
+
+- 👯 I’m looking to collaborate on projects on **Web development**
+
 - 🌱 I’m currently learning **JavaScript and Bootstrap**
 
 - ⚡ Fun fact **I love learning new things everyday!**
