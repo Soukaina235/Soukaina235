@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 Computer Science Engineering Student
-🔍 Seeking Collaborative Projects in Web Development, AI, and Data Science
-🚀 Embracing every opportunity to learn
+👨‍💻 Computer Science Engineering Student<br />
+🔍 Seeking Collaborative Projects in Web Development, AI, and Data Science<br />
+🚀 Embracing every opportunity to learn<br />
 <!--
 🎨In addition to coding, I find joy in expressing myself through a pencil and a sketchbook
 -->
@@ -13,8 +13,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
