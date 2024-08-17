@@ -68,12 +68,12 @@
   <img src="https://streak-stats.demolab.com/?user=Soukaina235&theme=radical">
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repos
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Soukaina235&limit=5&theme=radical&combine_all_yearly_contributions=true
+  <img src="https://github-contributor-stats.vercel.app/api?username=Soukaina235&limit=5&theme=radical&combine_all_yearly_contributions=true"
 </div>
 
-## 🏆 Symmary Cards
+## 📋 Symmary Cards
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soukaina235&theme=radical">
 </div>
