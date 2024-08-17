@@ -70,7 +70,7 @@
 
 ## 🔝 Top Contributed Repos
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Soukaina235&limit=5&theme=radical&combine_all_yearly_contributions=true"
+  <img src="https://github-contributor-stats.vercel.app/api?username=Soukaina235&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
 ## 📋 Symmary Cards
